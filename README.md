@@ -1,25 +1,31 @@
 # Cesar Pumayalla
 
-Frontend Developer — Next.js, React, TypeScript  
+Frontend Developer — Next.js, TypeScript, React  
+Building structured, production-ready frontend systems  
 Berlin, Germany · Open to EU roles
 
 ---
 
 ## Focus
 
-I build structured frontend systems focused on clarity, usability and real-world delivery.
+I design and build frontend systems that are clear, scalable and ready for production environments.
 
-- clean UI architecture  
-- scalable component systems  
-- performance and readability  
-- production-ready implementations  
+- component-driven architecture  
+- maintainable and readable code  
+- performance-aware implementation  
+- real-world usability  
 
 ---
 
 ## Selected Work
 
 ### Ninan Studio — Portfolio  
-Structured frontend portfolio built with Next.js (App Router), TypeScript and Tailwind.
+Frontend system built with Next.js (App Router), TypeScript and Tailwind.
+
+Focused on:
+- structured layout systems  
+- reusable components  
+- clean UI architecture  
 
 → https://ninan-studio.vercel.app
 
@@ -32,11 +38,12 @@ Spring Boot (basic) · SQL
 
 ---
 
-## Approach
+## Working Style
 
-- Structure over noise  
-- Clarity over cleverness  
-- Build → validate → refine  
+- structured thinking  
+- fast iteration  
+- clear communication  
+- continuous refinement  
 
 ---
 
